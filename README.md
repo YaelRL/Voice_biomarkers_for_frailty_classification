@@ -1,5 +1,6 @@
 # Voice_biomarkers_for_frailty_classification
-Abstract 
+This project analyzed speech recordings and extracted voice and speech biomarkers that were correlated to frailty syndrome in older adults.
+
 Background: Clinicians use the patient’s voice intuitively to evaluate general health and frailty. Voice is an emerging health indicator but has been it was scarcely studied 
 in the context of frailty. This study explored voice parameters as possible predictors of frailty in older adults.
 Methods: 53 Participants over 70 years old were recruited from rehabilitation wards at a tertiary medical center. Participants' frailty was assessed using Rockwood frailty 
